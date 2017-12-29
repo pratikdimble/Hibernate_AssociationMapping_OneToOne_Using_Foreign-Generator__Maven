@@ -1,0 +1,1 @@
+# Hibernate_AssociationMapping_OneToOne_Using_Foreign-key-Generator_ManyToOne_Maven
